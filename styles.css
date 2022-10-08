@@ -1,0 +1,19 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+h1, h2 {
+    border: 3px blue;
+    border-radius: 20px black;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 30px 20px 10px auto;
+    width: 250px 
+}
+
+.hobbies {
+    background-color: blueviolet;
+}
