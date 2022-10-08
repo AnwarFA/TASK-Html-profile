@@ -2,7 +2,7 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
-h1, h2 {
+h2 {
     border: 3px blue;
     border-radius: 20px black;
     text-align: center;
